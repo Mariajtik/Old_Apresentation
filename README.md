@@ -161,6 +161,8 @@
 ![Top linguagens (dark)](https://github-readme-stats.vercel.app/api/top-langs/?username=Mariajtik&repo=Mariajtik&langs_count=10&layout=compact&theme=github_dark)
 
 
+![Maior streak](docs/longest-streak.svg)
+
 
   <!-- NOVO CONTADOR DE VISUALIZAÇÕES -->
   ![Contador de Visualizações do Perfil](https://komarev.com/ghpvc/?username=mariajtik&label=Profile%20views&color=4682B4&label_color=FFFFFF&style=flat&count_color=808080)
