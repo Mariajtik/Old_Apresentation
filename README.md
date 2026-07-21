@@ -1,6 +1,12 @@
 <!-- ================= HERO SECTION ================= -->
 
 <p align="center">
+
+<p align="center">
+<img src="media/banner-coding.gif" width="100%" />
+</p>
+
+  
   <img 
     src="https://raw.githubusercontent.com/Mariajtik/Mariajtik/main/media/banner-coding.gif"
     alt="Maria Baptista AI-First Engineering Banner"
@@ -124,3 +130,4 @@ Collaborating with international teams and delivering software globally.
 <br>
 
 <!-- End Hero -->
+
