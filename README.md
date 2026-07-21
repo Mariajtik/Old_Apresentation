@@ -2,16 +2,10 @@
 
 <p align="center">
 
-<p align="center">
-<img src="media/banner-coding.gif" width="100%" />
+<p align="right">
+<img src="media/Hi.gif" width="20%" />
 </p>
 
-  
-  <img 
-    src="https://raw.githubusercontent.com/Mariajtik/Mariajtik/main/media/banner-coding.gif"
-    alt="Maria Baptista AI-First Engineering Banner"
-    width="100%"
-  />
 </p>
 
 <br>
@@ -1126,40 +1120,35 @@ A modern task and management application designed with a SaaS mindset, focusing 
 <li>Scalable features</li>
 
 </ul>
+<div></div>
 
-
-<p>
-
-<strong>Stack:</strong>
-
-<br>
-
-Flutter • APIs • Database • AI-assisted development
-
-</p>
-
-
-<p>
-
-<a href="https://github.com/Mariajtik/angogestor">
-
-<img src="https://img.shields.io/badge/View_Project-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
-
-</a>
-
-</p>
-
-
-</td>
 
 
 <td width="50%" align="center">
 
 
-<img 
-src="https://github-readme-stats.vercel.app/api/pin/?username=Mariajtik&repo=angogestor&theme=github_dark"
-/>
 
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white">
+
+<img src="https://img.shields.io/badge/API-2563EB?style=flat-square">
+
+<img src="https://img.shields.io/badge/AI--Assisted-7C3AED?style=flat-square">
+
+</p>
+
+
+<p align="center">
+
+<a href="https://github.com/Mariajtik/angogestor">
+
+<img src="https://img.shields.io/badge/View_Repository-111827?style=for-the-badge&logo=github&logoColor=white">
+
+</a>
+
+</p>
 
 </td>
 
@@ -1176,9 +1165,27 @@ src="https://github-readme-stats.vercel.app/api/pin/?username=Mariajtik&repo=ang
 <td width="50%" align="center">
 
 
-<img 
-src="https://github-readme-stats.vercel.app/api/pin/?username=Mariajtik&repo=sistema-gestao-escolar&theme=github_dark"
-/>
+<p align="center">
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
+
+<img src="https://img.shields.io/badge/.NET_8-512BD4?style=flat-square&logo=.net">
+
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
+
+</p>
+
+
+<p align="center">
+
+<a href="https://github.com/Mariajtik/sistema-gestao-escolar">
+
+<img src="https://img.shields.io/badge/View_Repository-111827?style=for-the-badge&logo=github&logoColor=white">
+
+</a>
+
+</p>
+
 
 
 </td>
@@ -1226,23 +1233,10 @@ A complete school administration system built to manage structured information a
 
 </ul>
 
-
-<p>
-
-<strong>Stack:</strong>
-
-<br>
-
-React • TypeScript • .NET 8 • SQL
-
-</p>
+<div></div>
 
 
-<a href="https://github.com/Mariajtik/sistema-gestao-escolar">
 
-<img src="https://img.shields.io/badge/View_Project-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
-
-</a>
 
 
 </td>
@@ -1299,15 +1293,7 @@ An exploration of AI-powered workflows and modern application development using 
 </ul>
 
 
-<p>
-
-<strong>Stack:</strong>
-
-<br>
-
-TypeScript • AI Tools • Modern Web Technologies
-
-</p>
+<div></div>
 
 
 </td>
@@ -1316,9 +1302,24 @@ TypeScript • AI Tools • Modern Web Technologies
 <td width="50%" align="center">
 
 
-<img 
-src="https://img.shields.io/badge/AI--FIRST_PROJECT-7C3AED?style=for-the-badge&logo=openai&logoColor=white"
-/>
+<p align="center">
+
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
+
+<img src="https://img.shields.io/badge/AI_Workflow-7C3AED?style=flat-square">
+
+</p>
+
+
+<p align="center">
+
+<a href="https://github.com/Mariajtik/ai-home-hub-0a1b49e3">
+
+<img src="https://img.shields.io/badge/View_Project-111827?style=for-the-badge&logo=github&logoColor=white">
+
+</a>
+
+</p>
 
 
 </td>
@@ -1337,10 +1338,24 @@ src="https://img.shields.io/badge/AI--FIRST_PROJECT-7C3AED?style=for-the-badge&l
 <td width="50%" align="center">
 
 
-<img 
-src="https://github-readme-stats.vercel.app/api/pin/?username=Mariajtik&repo=ethpool-simulator-&theme=github_dark"
-/>
+<p align="center">
 
+<img src="https://img.shields.io/badge/Blockchain-black?style=flat-square&logo=ethereum&logoColor=white">
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+
+</p>
+
+
+<p align="center">
+
+<a href="https://github.com/Mariajtik/ethpool-simulator-">
+
+<img src="https://img.shields.io/badge/View_Repository-111827?style=for-the-badge&logo=github&logoColor=white">
+
+</a>
+
+</p>
 
 </td>
 
@@ -1385,22 +1400,26 @@ A technical project exploring Ethereum transaction flows, mempool behavior and d
 </ul>
 
 
-<p>
+<div></div>
 
-<strong>Stack:</strong>
+<p align="center">
 
-<br>
+<img src="https://img.shields.io/badge/Blockchain-black?style=flat-square&logo=ethereum&logoColor=white">
 
-HTML • JavaScript • Blockchain Concepts
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
 
 </p>
 
 
+<p align="center">
+
 <a href="https://github.com/Mariajtik/ethpool-simulator-">
 
-<img src="https://img.shields.io/badge/View_Project-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/View_Repository-111827?style=for-the-badge&logo=github&logoColor=white">
 
 </a>
+
+</p>
 
 
 </td>
@@ -1438,22 +1457,27 @@ A clean task management application demonstrating authentication, data handling 
 </p>
 
 
-<p>
+<div></div>
 
-<strong>Stack:</strong>
+<p align="center">
 
-<br>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
 
-JavaScript • APIs • Database
+<img src="https://img.shields.io/badge/Full--Stack-2563EB?style=flat-square">
 
 </p>
 
 
+<p align="center">
+
 <a href="https://github.com/Mariajtik/task-manager-app">
 
-<img src="https://img.shields.io/badge/View_Project-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/View_Repository-111827?style=for-the-badge&logo=github&logoColor=white">
 
 </a>
+
+</p>
+
 
 
 </td>
