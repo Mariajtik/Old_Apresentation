@@ -726,28 +726,13 @@ Engineers create reliable systems."
 </div>
 
 
-<br>
-
-
-<p align="center">
-
-<img 
-src="https://raw.githubusercontent.com/MAJigsaw/MAJigsaw/main/wave.gif"
-width="100%"
-/>
-
-</p>
-
 
 <!-- ================= END AI WORKFLOW ================= -->
 
 <!-- ================= TECHNICAL STACK ================= -->
 
-<p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/MAJigsaw/MAJigsaw/main/giphy.gif"
-    width="100%"
-  />
+<p align="right">
+<img src="media/Hi.gif" width="20%" />
 </p>
 
 
@@ -1048,11 +1033,8 @@ width="100%"
 
 <!-- ================= FEATURED PROJECTS ================= -->
 
-<p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/MAJigsaw/MAJigsaw/main/giphy.gif"
-    width="100%"
-  />
+<p align="right">
+<img src="media/banner-coding.gif" width="100%" />
 </p>
 
 
@@ -1402,24 +1384,7 @@ A technical project exploring Ethereum transaction flows, mempool behavior and d
 
 <div></div>
 
-<p align="center">
 
-<img src="https://img.shields.io/badge/Blockchain-black?style=flat-square&logo=ethereum&logoColor=white">
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-
-</p>
-
-
-<p align="center">
-
-<a href="https://github.com/Mariajtik/ethpool-simulator-">
-
-<img src="https://img.shields.io/badge/View_Repository-111827?style=for-the-badge&logo=github&logoColor=white">
-
-</a>
-
-</p>
 
 
 </td>
@@ -1459,24 +1424,6 @@ A clean task management application demonstrating authentication, data handling 
 
 <div></div>
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-
-<img src="https://img.shields.io/badge/Full--Stack-2563EB?style=flat-square">
-
-</p>
-
-
-<p align="center">
-
-<a href="https://github.com/Mariajtik/task-manager-app">
-
-<img src="https://img.shields.io/badge/View_Repository-111827?style=for-the-badge&logo=github&logoColor=white">
-
-</a>
-
-</p>
 
 
 
@@ -1489,6 +1436,27 @@ A clean task management application demonstrating authentication, data handling 
 <img 
 src="https://img.shields.io/badge/FULL--STACK_PROJECT-059669?style=for-the-badge"
 />
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Flutter-F7DF1E?style=flat-square&logo=flutter&logoColor=black">
+
+
+<img src="https://img.shields.io/badge/AI_Workflow-7C3AED?style=flat-square">
+
+</p>
+
+
+<p align="center">
+
+<a href="https://github.com/Mariajtik/task-manager-app">
+
+<img src="https://img.shields.io/badge/View_Repository-111827?style=for-the-badge&logo=github&logoColor=white">
+
+</a>
+
+
+</p>
 
 
 </td>
@@ -1533,8 +1501,8 @@ src="https://img.shields.io/badge/Explore_All_Repositories-111827?style=for-the-
 <p align="center">
 
 <img 
-src="https://raw.githubusercontent.com/MAJigsaw/MAJigsaw/main/wave.gif"
-width="100%"
+src="https://media/YUPY.gif"
+width="50%"
 />
 
 </p>
