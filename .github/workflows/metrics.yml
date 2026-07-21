@@ -3,6 +3,7 @@ name: GitHub Metrics
 on:
   schedule:
     - cron: "0 */24 * * *"
+
   workflow_dispatch:
 
 jobs:
@@ -13,21 +14,35 @@ jobs:
       contents: write
 
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: Generate Metrics
+        uses: lowlighter/metrics@latest
         with:
+
+          # GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
 
+          # Profile
           user: Mariajtik
           filename: metrics.svg
 
+          # Basic information
           base: header, repositories
 
           config_timezone: Africa/Luanda
 
+          # Repository analysis
+          repositories_affiliations: owner
+          repositories_forks: yes
+
+          # Languages
           plugin_languages: yes
           plugin_languages_limit: 20
           plugin_languages_threshold: 0%
           plugin_languages_sections: most-used, recently-used
-          plugin_languages_details: bytes-size, percentage
+          plugin_languages_details: percentage, bytes-size
 
+          # More complete analysis
           plugin_languages_indepth: yes
+
+          # Output
+          output_action: commit
