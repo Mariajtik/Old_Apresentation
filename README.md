@@ -3,7 +3,8 @@
 <p align="center">
 
 <p align="right">
-<img src="media/Hi.gif" width="20%" />
+<img src="media/YUPY.gif" width="30%" />
+
 </p>
 
 </p>
@@ -731,10 +732,43 @@ Engineers create reliable systems."
 
 <!-- ================= TECHNICAL STACK ================= -->
 
-<p align="right">
-<img src="media/Hi.gif" width="20%" />
-</p>
+<table width="100%">
+<tr>
 
+<td width="50%" align="left">
+
+<img src="media/Hi.gif" width="25%" />
+
+</td>
+
+
+<td width="50%" align="center">
+
+<img src="media/Hi.gif" width="25%" />
+
+</td>
+
+</tr>
+
+
+<tr>
+
+<td width="50%" align="center">
+
+<img src="media/Hi.gif" width="25%" />
+
+</td>
+
+
+<td width="50%" align="right">
+
+<img src="media/Hi.gif" width="25%" />
+
+</td>
+
+</tr>
+
+</table>
 
 <h2 align="center">
   ⚙️ Technical Stack
@@ -1511,44 +1545,77 @@ width="50%"
 <!-- ================= END FEATURED PROJECTS ================= -->
 
 <!-- ================= GITHUB ANALYTICS ================= -->
+<!-- ================= GITHUB ANALYTICS ================= -->
 
-<p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/MAJigsaw/MAJigsaw/main/giphy.gif"
-    width="100%"
-  />
-</p>
+<div align="center">
+
+<img 
+src="https://raw.githubusercontent.com/Mariajtik/Mariajtik/main/media/wave.svg"
+width="100%"
+/>
 
 
-<h2 align="center">
-  📊 GitHub Analytics
+<h2>
+<img src="https://api.iconify.design/lucide:bar-chart-3.svg?color=%2300A8FF" width="28"/>
+ GitHub Analytics
 </h2>
 
 
-<p align="center">
-
-Engineering activity, experimentation, and continuous learning.
-
+<p>
+Engineering activity, experimentation and continuous improvement.
 </p>
+
+
+</div>
 
 
 <br>
 
 
-<!-- MAIN STATS -->
+<table width="100%">
+
+<tr>
+
+<td width="50%" align="center">
+
+<img
+height="170"
+src="https://github-readme-stats.vercel.app/api?username=Mariajtik&show_icons=true&theme=github_dark&hide_border=true&count_private=true"
+/>
+
+</td>
+
+
+<td width="50%" align="center">
+
+<img
+height="170"
+src="https://github-readme-streak-stats.herokuapp.com/?user=Mariajtik&theme=github-dark-blue&hide_border=true"
+/>
+
+</td>
+
+</tr>
+
+</table>
+
+
+<br>
+
 
 <div align="center">
 
+<h3>
 
-<img 
-height="180"
-src="https://github-readme-stats.vercel.app/api?username=Mariajtik&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"
-/>
+<img src="https://api.iconify.design/lucide:code-2.svg?color=%2300A8FF" width="22"/>
+
+ Technology Distribution
+
+</h3>
 
 
-<img 
-height="180"
-src="https://github-readme-streak-stats.herokuapp.com/?user=Mariajtik&theme=github-dark-blue&hide_border=true"
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariajtik&layout=compact&theme=github_dark&hide_border=true"
 />
 
 
@@ -1558,37 +1625,15 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=Mariajtik&theme=gith
 <br>
 
 
-<!-- LANGUAGES -->
+<div align="center">
 
+<h3>
 
-<h3 align="center">
-💻 Most Used Languages
+<img src="https://api.iconify.design/lucide:activity.svg?color=%2300A8FF" width="22"/>
+
+ Development Activity
+
 </h3>
-
-
-<p align="center">
-
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariajtik&layout=compact&langs_count=10&theme=github_dark&hide_border=true"
-/>
-
-
-</p>
-
-
-<br>
-
-
-<!-- ACTIVITY GRAPH -->
-
-
-<h3 align="center">
-📈 Development Activity
-</h3>
-
-
-<p align="center">
 
 
 <img
@@ -1596,55 +1641,56 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=Mariajtik&th
 />
 
 
-</p>
+</div>
 
 
 <br>
 
 
-<!-- CONTRIBUTION SNAKE -->
+<div align="center">
 
+<h3>
 
-<h3 align="center">
-🐍 Contribution Journey
+<img src="https://api.iconify.design/lucide:git-branch.svg?color=%2300A8FF" width="22"/>
+
+ Contribution Journey
+
 </h3>
-
-
-<p align="center">
 
 
 <img
 src="https://raw.githubusercontent.com/Mariajtik/Mariajtik/output/github-contribution-grid-snake.svg"
-alt="Contribution Snake"
+width="90%"
 />
 
 
-</p>
+</div>
 
 
 <br>
 
 
-<!-- METRICS CARDS -->
-
-
-<table width="100%">
+<table width="100%"
+style="border:1px solid #00A8FF;">
 
 
 <tr>
 
 
-<td width="33%" align="center">
+<td align="center" width="33%">
+
+
+<img src="https://api.iconify.design/lucide:rocket.svg?color=%2300A8FF" width="35"/>
 
 
 <h3>
-🚀 Focus
+Engineering Focus
 </h3>
 
 
 <p>
 
-Full Stack Engineering
+Full Stack Systems
 
 <br>
 
@@ -1661,11 +1707,14 @@ Software Architecture
 
 
 
-<td width="33%" align="center">
+<td align="center" width="33%">
+
+
+<img src="https://api.iconify.design/lucide:brain.svg?color=%2300A8FF" width="35"/>
 
 
 <h3>
-🧠 Learning
+Current Learning
 </h3>
 
 
@@ -1675,7 +1724,7 @@ Java Ecosystem
 
 <br>
 
-Cloud Native Systems
+Cloud Architecture
 
 <br>
 
@@ -1688,17 +1737,20 @@ Agentic AI
 
 
 
-<td width="33%" align="center">
+<td align="center" width="33%">
+
+
+<img src="https://api.iconify.design/lucide:globe.svg?color=%2300A8FF" width="35"/>
 
 
 <h3>
-🌍 Workflow
+Workflow
 </h3>
 
 
 <p>
 
-Remote Collaboration
+Remote Engineering
 
 <br>
 
@@ -1723,50 +1775,32 @@ Continuous Delivery
 <br>
 
 
-<!-- PROFILE VIEW -->
-
-<p align="center">
+<div align="center">
 
 
 <img
-src="https://komarev.com/ghpvc/?username=Mariajtik&label=Profile%20Views&color=2563EB&style=for-the-badge"
+src="https://komarev.com/ghpvc/?username=Mariajtik&label=Profile%20Views&color=00A8FF&style=flat"
 />
 
 
-</p>
+<br><br>
 
-
-<br>
-
-
-<div align="center">
 
 <blockquote>
 
 <strong>
 
-"Consistency compounds.
-Every commit is a step toward better engineering."
+Engineering is the discipline of turning ideas into reliable systems.
 
 </strong>
 
 </blockquote>
 
+
 </div>
 
 
-<br>
-
-
-<p align="center">
-
-<img 
-src="https://raw.githubusercontent.com/MAJigsaw/MAJigsaw/main/wave.gif"
-width="100%"
-/>
-
-</p>
-
+<!-- ================= END ANALYTICS ================= -->
 
 <!-- ================= END GITHUB ANALYTICS ================= -->
 
@@ -1820,7 +1854,10 @@ Software Engineering × Artificial Intelligence × Scalable Systems
 Exploring how AI agents can become part of modern engineering workflows.
 
 </p>
-
+<img
+height="170"
+src="https://github-readme-stats.vercel.app/api?username=Mariajtik&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
+/>
 
 <ul>
 
