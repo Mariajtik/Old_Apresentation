@@ -1588,11 +1588,15 @@ Engineering activity, experimentation and continuous improvement.
 
 <td width="50%" align="center">
 
+<p align="center">
+
 <img
-height="170"
-src="https://github-readme-stats.vercel.app/api?username=Mariajtik&show_icons=true&theme=github_dark&hide_border=true&count_private=true"
+src="https://raw.githubusercontent.com/Mariajtik/Mariajtik/main/metrics.svg"
+width="90%"
 />
 
+</p>
+ 
 </td>
 
 
