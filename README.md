@@ -39,6 +39,7 @@
 
 <!-- Premium divider -->
 
+
 <p align="center">
 <img 
 src="https://raw.githubusercontent.com/MAJigsaw/MAJigsaw/main/wave.gif"
@@ -127,6 +128,13 @@ Collaborating with international teams and delivering software globally.
 <!-- End Hero -->
 
 <!-- ================= ABOUT ME ================= -->
+<p align="center">
+  <img
+    src="media/loadcat.gif"
+    alt="Loading animation"
+    width="50"
+  />
+</p>
 
 <p align="center">
   <img 
