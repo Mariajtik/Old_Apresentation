@@ -1,5 +1,7 @@
 <!-- ================= HERO SECTION ================= -->
 
+
+
 <p align="center">
 
 <p align="right">
@@ -2405,8 +2407,8 @@ src="https://komarev.com/ghpvc/?username=Mariajtik&label=Engineers+Visited+This+
 
 
 <img 
-src="https://raw.githubusercontent.com/Mariajtik/Mariajtik/main/media/LA.gif"
-width="100%"
+src="https://raw.githubusercontent.com/Mariajtik/Mariajtik/main/media/ezgif.com-video-to-gif-converter.gif"
+width="75%"
 />
 
 
