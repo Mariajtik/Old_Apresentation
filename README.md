@@ -428,8 +428,8 @@ problems
 
 <td width="14%" align="center">
 
-<img 
-src="https://img.icons8.com/color/96/architecture.png"
+<img
+src="https://img.icons8.com/color/96/engineering.png"
 width="55"
 />
 
