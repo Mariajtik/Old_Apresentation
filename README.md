@@ -1542,14 +1542,7 @@ src="https://img.shields.io/badge/Explore_All_Repositories-111827?style=for-the-
 <br>
 
 
-<p align="center">
 
-<img 
-src="https://media/YUPY.gif"
-width="50%"
-/>
-
-</p>
 
 
 <!-- ================= END FEATURED PROJECTS ================= -->
@@ -1557,12 +1550,7 @@ width="50%"
 <!-- ================= GITHUB ANALYTICS ================= -->
 <!-- ================= GITHUB ANALYTICS ================= -->
 
-<div align="center">
 
-<img 
-src="https://raw.githubusercontent.com/Mariajtik/Mariajtik/main/media/wave.svg"
-width="100%"
-/>
 
 
 <h2>
@@ -1579,25 +1567,16 @@ Engineering activity, experimentation and continuous improvement.
 </div>
 
 
-<br>
-
-
-<table width="100%">
-
-<tr>
-
-<td width="50%" align="center">
-
 <p align="center">
 
 <img
 src="https://raw.githubusercontent.com/Mariajtik/Mariajtik/main/metrics.svg"
 width="90%"
 />
-
 </p>
- 
-</td>
+
+<table width="100%">
+
 
 
 <td width="50%" align="center">
@@ -1609,7 +1588,7 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=Mariajtik&theme=gith
 
 </td>
 
-</tr>
+
 
 </table>
 
@@ -1868,10 +1847,8 @@ Software Engineering × Artificial Intelligence × Scalable Systems
 Exploring how AI agents can become part of modern engineering workflows.
 
 </p>
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api?username=Mariajtik&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
-/>
+
+
 
 <ul>
 
