@@ -1607,9 +1607,7 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=Mariajtik&theme=gith
 </h3>
 
 
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariajtik&layout=compact&theme=github_dark&hide_border=true"
-/>
+<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mariajtik&layout=compact&langs_count=14&theme=dark&cache_seconds=1800" />
 
 
 </div>
